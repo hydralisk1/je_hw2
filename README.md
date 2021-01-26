@@ -53,4 +53,4 @@ Logged out user sees Sign in page when clicking Orders
 * - Not Required
 
 ## 5* Codewars, solve this kata: https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a
-## ```<done> - https://www.codewars.com/users/hydralisk1/completed```
+## ```<done>``` - https://www.codewars.com/users/hydralisk1/completed
