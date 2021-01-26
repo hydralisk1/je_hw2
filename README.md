@@ -1,6 +1,6 @@
-'''diff
+```diff
 @@ text in red @@
-'''
+```
 
 # QA_Automation Homework 2
 
